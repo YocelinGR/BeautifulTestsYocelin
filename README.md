@@ -14,4 +14,4 @@ A diferencia de todo lo que hacemos durante el curso, los exámenes son individu
 6. Abre el playground y responde el examen.
 7. Una vez que hayas finalizado de contestar el examen, haz un commit y push a tu repositorio. 
 8. Finalmente, haz un **pull request** donde pongas en comentarios algo como lo siguiente: *"Terminé el examen y se quien es John Galt"* (si no lo sabes, omítelo). 
-9. Continuemos con nuestra clase :happy:
+9. Continuemos con nuestra clase :smile:
