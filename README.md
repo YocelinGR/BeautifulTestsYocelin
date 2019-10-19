@@ -8,9 +8,10 @@ A diferencia de todo lo que hacemos durante el curso, los exámenes son individu
 
 1. Haz un **fork** de este repositorio.
 2. **Clona** el repositorio a tu escritorio o carpeta de preferencia dentro de tu computadora. 
-3. Entra a la carpeta **Tests/$** (donde *$* representa el número del examen que estemos haciendo).
-4. Crea una carpeta con tu apellido paterno, materno y nombre siguiendo la nomenclatura *UpperCamelCase*: **MartinezOstoaNestor**.
-5. Copia el playground a la carpeta con tu nombre. 
-6. Abre el playground que acabas de copiar y haz el examen. Todo el examen se realizará dentro del playground.
-7. Una vez que hayas terminado de contestar el examen, haz un commit y push a tu repositorio. 
-8. Finalmente, haz un **pull request** donde pongas en comentarios algo como lo siguiente: *"Terminé el examen"*. 
+3. Entra a la carpeta **Tests/$** (donde *$* representa el número del examen que estemos haciendo en ese momento).
+4. Crea una carpeta con tu apellido paterno y nombre siguiendo la nomenclatura *UpperCamelCase* como se muestra en el siguiente ejemplo: **GaltJohn**. (Por cierto, ```Who is John Galt?```). 
+5. Copia el playground **Test$.playground** a la carpeta que acabas de crear. 
+6. Abre el playground y responde el examen.
+7. Una vez que hayas finalizado de contestar el examen, haz un commit y push a tu repositorio. 
+8. Finalmente, haz un **pull request** donde pongas en comentarios algo como lo siguiente: *"Terminé el examen y se quien es John Galt"* (si no lo sabes, omítelo). 
+9. Continuemos con nuestra clase :happy 
